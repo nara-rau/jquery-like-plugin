@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+li {
+    border: 1px solid blue;
+    padding:20px;
+    width: 100px;
+    height:40px;
+    display: block;
+}
+p {
+    border: 1px solid green;
+    font-size: 24px;
+}
+img{
+    width: 100%;
+    height: 60%;
+}
+#content{
+    padding: 20px;
+}
+.col{
+    width: 100px;
+    height:40px;
+    border: 1px solid blue;
+    text-align: center;
+}
+
+.highlight{
+    text-shadow: 2px 2px 2px blue;
+    font-size: 30px;
+    box-shadow:inset 12px 2px 102px gold;  
+}
