@@ -1,0 +1,3 @@
+
+# jquery-like-plugin
+jlp
