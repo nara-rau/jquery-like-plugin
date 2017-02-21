@@ -98,4 +98,11 @@ window.onload=function(){
     
     console.log(JLP('li').children());
     JLP('li').append(JLP('.col').eq(2));
+	
+	
+	alert("this is just a js file.... to test ");
+	
+	
+	
+	
 };
